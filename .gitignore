@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### dependencies to be ignored 
+
+node_modules
